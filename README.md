@@ -1,1 +1,5 @@
 # ics4u-intro-05-typescript
+
+# ics4u-unit1-02-typescript
+
+[![Mr Coxall's Super Linter](https://github.com/Igor-Zhelezniak-1/ics4u-intro-05-typescript/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Igor-Zhelezniak-1/ics4u-intro-05-typescript/actions/)
